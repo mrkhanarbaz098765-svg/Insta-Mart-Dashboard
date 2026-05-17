@@ -31,11 +31,6 @@ An interactive Power BI dashboard created to analyze Swiggy Instamart sales perf
 
 ---
 
-## 📷 Dashboard Preview
-![Dashboard](dashboard-image.png)
-
----
-
 ## 🙏 Acknowledgement
 Special thanks to **Sathish Dhawle** and **Skill Course** for their guidance and support.
 
